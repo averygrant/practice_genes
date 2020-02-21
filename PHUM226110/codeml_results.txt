@@ -1,0 +1,1411 @@
+
+Before deleting alignment gaps
+     18    552
+
+Hbarb.PHUM226110                ATG AGG GAA TAT AAA ATT GTG GTG CTG GGT AGC GGA GGA GTT GGG AAG TCC GCC CTC ACC GTT CAA TTT GTC CAG GGA ATT TTC GTA GAG AAA TAT GAT CCC ACT ATA GAA GAC AGT TAT CGG AAG CAG GTG GAG GTC GAT GGT CAG CAG TGT ATG CTT GAA ATA TTA GAT ACT GCC GGA ACA GAA CAA TTC ACT GCT ATG AGA GAC TTG TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATT ACT GCC CAG TCG ACG TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATT TTA AGA GTA AAG GAC ACC GAT GAC GTG CCA ATG GTT CTC GTC GGC AAC AAG TGT GAT TTG GAA GAG GAA AGA GTC GTC GGA AAG GAT CAA GGT ATT AAT TTA GCT CGT CAG TTT AAT TGC GCT TTT ATG GAA ACA TCT GCC AAA GCC AAA ATC AAT GTT ATC GAT ATT TTC TAT GAT TTA GTG CGA CAG GTC AAT AAA AAA TCG CCA GAA AAA AAA ATG AAG CAG AAA AAG AAG TCG TTA TGT ACA CTC CTA 
+Ltspi.PHUM226110                ATG AGA GAG TAT AAA ATT GTG GTG CTG GGT AGT GGA GGA GTT GGA AAG TCC GCC CTC ACC GTT CAA TTT GTT CAG GGA ATA TTT GTT GAA AAA TAC GAC CCT ACC ATA GAA GAC AGC TAT CGG AAG CAG GTG GAA GTC GAC GGT CAG CAG TGC ATG CTT GAA ATA TTA GAC ACT GCC GGA ACA GAA CAA TTT ACT GCA ATG AGA GAT TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCG ACA TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAA GAT ACC GAC GAT GTG CCT ATG GTA CTA GTT GGT AAC AAG TGT GAT TTA GAG GAA GAA AGA GTT GTC GGA AAG GAT CAA GGT ATT AAT TTA GCT CGT CAG TTT AGT TGC GCT TTT ATG GAA ACA TCT GCC AAA GCA AAA ATC AAT GTT ATC GAT ATA TTT TAC GAT TTA GTG CGG CAG GTC AAT AAA AAA TCA CCA GAA AAA AAA ATG AAG CAA AAA AAG AAG TCA TTA TGT ACC CTG TTA 
+Nepac.PHUM226110                ATG AGA GAA TAC AAA ATT GTG GTG CTG GGT AGC GGA GGA GTT GGA AAG TCC GCC CTC ACC GTT CAA TTT GTC CAG GGA ATA TTC GTA GAG AAG TAC GAT CCC ACC ATA GAA GAC AGT TAT AGA AAG CAA GTG GAA GTG GAT GGT CAG CAG TGT ATG CTC GAA ATA TTA GAC ACT GCC GGT ACA GAA CAA TTC ACC GCC ATG AGA GAC TTG TAT ATG AAA AAT GGC CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCG ACG TTT AAC GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG GAC ACC GAC GAT GTG CCA ATG GTT CTC GTC GGG AAT AAG TGT GAT TTG GAA GAA GAA AGA GTC GTC GGC AAA GAT CAA GGT ATT AAT TTA GCA CGT CAG TTT AAT TGC GCT TTT ATG GAA ACA TCT GCC AAA GCC AAA ATC AAT GTT ATC GAT ATA TTC TAC GAT TTA GTG CGA CAG GTC AAT AAA AAA TCG CCA GAG AAA AAA ATG AAA CAG AAA AAG AAG TCT TTA TGT ACA CTC TTA 
+PdhumCA.PHUM226110              ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGT GGA GGA GTT GGT AAA TCC GCC CTC ACC GTT CAA TTC GTA CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACA ATT GAA GAC AGC TAT AGA AAG CAG GTG GAA GTC GAT GGT CAG CAG TGC ATG CTT GAA ATA TTA GAT ACT GCT GGA ACA GAA CAA TTT ACT GCT ATG AGA GAC TTA TAC ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG GAT ACG GAC GAT GTA CCC ATG GTA CTC GTC GGT AAC AAG TGT GAT TTG GAA GAA GAA AGA GTC GTC GGG AAA GAT AAT GGT ATA AAT TTA GCT CGT CAG TTT AAT TGC GCT TTT ATG GAA ACA TCT GCC AAA GCT AAA ATC AAT GTA ATC GAT ATA TTT TAC GAT TTA GTA AGA CAG GTC AAT AAA AAA TCA CCT GAA AAA AAA ATG AAA CAA AAA AAG AAA TCC TTA TGT GTA CTC CTA 
+PdhumNE.PHUM226110              ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGT GGA GGA GTT GGT AAA TCC GCC CTC ACC GTT CAA TTC GTA CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACA ATT GAA GAC AGC TAT AGA AAG CAG GTG GAA GTC GAT GGT CAG CAG TGC ATG CTT GAA ATA TTA GAT ACT GCT GGA ACA GAA CAA TTT ACT GCT ATG AGA GAC TTA TAC ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN 
+PdschKE.PHUM226110              ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGT GGA GGA GTT GGA AAA TCC GCC CTC ACC GTT CAA TTT GTT CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACA ATT GAA GAC AGC TAT CGG AAG CAG GTG GAA GTT GAT GGT CAG CAG TGC ATG CTT GAA ATA TTA GAT ACT GCT GGA ACA GAA CAA TTT ACT GCT ATG AGA GAC TTA TAC ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG GAT ACG GAC GAT GTA CCA ATG GTA CTC GTC GGT AAC AAG TGT GAT TTG GAA GAA GAA AGA GTT GTT GGG AAA GAT AAT GGT ATA AAT TTA GCT CGT CAG TTT AAT TGC GCT TTT ATG GAA ACA TCT GCC AAA GCT AAA ATC AAT GTA ATT GAT ATA TTT TAC GAT TTA GTA AGA CAG GTC AAT AAA AAA TCA CCT GAA AAA AAA ATG AAA CAA AAA AAG AAA TCC TTA TGT GTA CTC CTA 
+PdschUG.PHUM226110              ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGT GGA GGA GTT GGA AAA TCC GCC CTC ACC GTT CAA TTT GTT CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACA ATT GAA GAC AGC TAT CGG AAG CAG GTG GAA GTT GAT GGT CAG CAG TGC ATG CTT GAA ATA TTA GAT ACT GCT GGA ACA GAA CAA TTT ACT GCT ATG AGA GAC TTA TAC ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG GAT ACG GAC GAT GTA CCA ATG GTA CTC GTC GGT AAC AAG TGT GAT TTG GAA GAA GAA AGA GTT GTT GGG AAA GAT AAT GGT ATA AAT TTA GCT CGT CAG TTT AAT TGC GCT TTT ATG GAA ACA TCT GCC AAA GCT AAA ATC AAT GTA ATT GAT ATA TTT TAC GAT TTA GTA AGA CAG GTC AAT AAA AAA TCA CCT GAA AAA AAA ATG AAA CAA AAA AAG AAA TCC TTA TGT GTA CTC CTA 
+Pnbad.PHUM226110                ATG AGA GAA TAT AAA ATT GTG GTG CTA GGT AGC GGA GGA GTA GGA AAA TCC GCC CTC ACC GTT CAA TTT GTT CAA GGA ATT TTC GTA GAA AAA TAT GAT CCG ACT ATA GAA GAC AGC TAT AGA AAA CAA GTG GAA GTC GAT GGT CAG CAG TGC ATG CTT GAA ATT TTA GAC ACT GCC GGA ACA GAA CAA TTT ACC GCT ATG AGA GAC TTA TAC ATG AAG AAT GGT CAA GGC TTT ATA CTT GTA TAC TCA ATA ACT GCC CAG TCG ACA TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG GAT ACA GAC GAT GTA CCA ATG GTG CTC GTC GGT AAC AAA TGT GAT TTG GAG GAC GAA AGA GTT GTT GGG AAG GAT CAA GGT ATT AAT TTA GCT CGT CAG TTC AAT TGT GCT TTT ATG GAA ACA TCT GCC AAA GCA AAA ATC AAT GTA ATT GAT GTA AGT TTT NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN 
+Ptgot.PHUM226110                ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGC GGA GGA GTT GGA AAG TCC GCC CTC ACC GTT CAG TTT GTT CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACT ATA GAG GAC AGC TAT AGA AAG CAA GTG GAA GTC GAC GGT CAG CAG TGC ATG CTT GAA ATA TTA GAC ACT GCT GGA ACA GAA CAA TTC ACA GCT ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAC GAT CTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG GAT ACG GAT GAT GTG CCA ATG GTA TTG GTC GGT AAC AAG TGT GAT TTG GAA GAA GAA AGA GTT GTT GGT AAA GAT AAT GGT ATA AAT TTA GCT CGT CAG TTT AAT TGC GCT TTT ATG GAA ACA TCA GCC AAA GCA AAA ATC AAC GTA ATC GAT ATA TTT TAC GAT TTA GTA AGA CAG GTC AAT AAA AAA TCA CCT GAA AAG AAA ATG AAG CAA AAA AAG AAA TCA TTA TGT GTA CTT CTA 
+Ptpub.PHUM226110                ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGC GGA GGA GTT GGA AAG TCC GCC CTC ACC GTT CAG TTT GTT CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACT ATA GAG GAC AGC TAT AGA AAG CAA GTG GAA GTC GAC GGT CAG CAG TGC ATG CTT GAG ATA TTA GAC ACT GCT GGA ACA GAA CAA TTC ACA GCT ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAC GAT CTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG GAT ACG GAT GAT GTG CCA ATG GTA TTG GTC GGT AAC AAG TGT GAT TTG GAA GAA GAA AGA GTT GTT GGT AAA GAT AAT GGT ATA AAT TTA GCT CGT CAG TTT AAT TGC GCT TTT ATG GAA ACA TCA GCC AAA GCA AAA ATC AAC GTA ATC GAT ATA TTT TAC GAT TTA GTA AGA CAG GTC AAT AAA AAA TCA CCT GAA AAG AAA ATG AAG CAA AAA AAG AAA TCA TTA TGT GTA CTT CTA 
+Mysp.PHUM226110                 ATG AGG GAA TAC AAG ATA GTG GTG CTG GGG AGT GGG GGC GTT GGA AAG TCC GCC CTC ACG GTT CAA TTT GTA CAA GGT ATA TTC GTC GAG AAA TAT GAT CCG ACG ATC GAA GAC AGC TAT AGA AAG CAG GTG GAG GTA GAC GGA CAA CAA TGC ATG CTT GAG ATT CTC GAT ACA GCA GGG ACG GAA CAA TTC ACG GCG ATG CGG GAT TTG TAC ATG AAA AAC GGC CAA GGT TTT ATC CTC GTG TAT TCA ATC ACG GCA CAG TCA ACA TTT AAT GAT TTA CAG GAT CTA AGA GAG CAG ATA TTA CGA GTT AAG NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN 
+Chtex.PHUM226110                ATG AGA GAG TAC AAG ATC GTA GTG TTA GGG AGC GGC GGT GTG GGG AAG TCC GCC CTC ACC GTT CAG TTC GTT CAG GGG ATT TTC GTA GAG AAA TAT GAT CCG ACC ATA GAA GAC AGT TAT CGA AAG CAA GTA GAA GTG GAT GGA CAG CAG TGC ATG CTC GAG ATT TTG GAC ACT GCA GGA ACC GAA CAA TTC ACC GCG ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAT TCA ATA ACT GCC CAG TCC ACA TTT AAC GAC TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG GAC ACA GAT GAC GTG CCG ATG GTG CTC GTT GGT AAC AAG TGT GAT TTG GAA GAG GAA AGA GTC GTT GGG AAG GAC CAA GGT ATT AAT TTA GCT CGT CAG TTT AAT TGT GCT TTT ATG GAA ACA TCT GCC AAA GCC AAA ATC AAT GTT ATT GAT GTA AGT TAT NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN 
+Geaur.PHUM226110                ATG AGG GAA TAT AAA ATT GTG GTG CTA GGG AGT GGA GGA GTA GGG AAG TCC GCC CTC ACC GTA CAA TTT GTT CAA GGG ATT TTT GTA GAG AAA TAT GAT CCG ACC ATA GAA GAC AGT TAT CGG AAA CAG GTA GAG GTG GAT GGT CAG CAG TGT ATG CTT GAA ATT CTA GAC ACT GCA GGA ACA GAG CAA TTC ACA GCA ATG AGA GAT TTA TAT ATG AAA AAT GGT CAA GGT TTT ATA CTT GTT TAT TCA ATA ACT GCC CAA TCA ACA TTT AAC GAT TTA CAA GAC CTT AGA GAA CAG ATA CTA AGA GTT AAA GAC ACG GAT GAC GTG CCT ATG GTG CTC GTC GGA AAT AAG TGT GAT TTA GAG GAA GAA AGG GTC GTC GGG AAA GAT CAA GGT ATT AAT TTA GCT CGT CAG TTT AAT TGT GCT TTT ATG GAA ACT TCT GCC AAA GCC AAA ATC AAT GTC ATT GAT ATA TTT TAC GAC TTA GTG CGA CAA GTC AAT AAA AAA TCA CCG GAG AAA AAA ATG AAG CAG AAA AAG AAG TCA TTA TGT GTA CTT CTA 
+Hldiv.PHUM226110                ATG AGG GAA TAT AAA ATT GTA GTA TTA GGA AGT GGT GGA GTG GGG AAG TCG GCG CTC ACC GTT CAG TTC GTT CAG GGG ATT TTC GTA GAG AAA TAC GAC CCG ACC ATA GAA GAC AGT TAT CGG AAG CAG GTC GAG GTG GAC GGA CAG CAG TGC ATG CTT GAA ATT CTA GAC ACT GCC GGA ACA GAA CAA TTC ACC GCT ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCC ACT TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG GAC ACG GAC GAC GTG CCC ATG GTA CTC GTT GGT AAC AAG TGT GAT TTG GAG GAG GAA AGG GTC GTC GGG AAG GAT CAA GGT ATT AAT TTA GCA CGA CAG TTT AAC TGC GCT TTT ATG GAA ACA TCT GCC AAA GCC AAA ATC AAT GTT ATT GAT GTA NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN 
+Ibbis.PHUM226110                ATG AGG GAA TAT AAA ATC GTA GTT TTA GGT AGC GGT GGG GTG GGG AAG TCA GCC CTC ACC GTG CAG TTT GTC CAG GGG ATT TTC GTA GAG AAA TAC GAC CCG ACC ATA GAA GAC AGT TAT CGG AAA CAA GTG GAG GTG GAC GGG CAG CAG TGC ATG CTT GAA ATT TTA GAC ACT GCC GGA ACA GAA CAA TTC ACC GCG ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCC ACG TTT AAC GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG GTA AGT GAA CAG GTT CCC TTT CTC TGG GAA GGG NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN 
+Hldiv.PHUM226110                ATG AGG GAA TAT AAA ATT GTA GTA TTA GGA AGT GGT GGA GTG GGG AAG TCG GCG CTC ACC GTT CAG TTC GTT CAG GGG ATT TTC GTA GAG AAA TAC GAC CCG ACC ATA GAA GAC AGT TAT CGG AAG CAG GTC GAG GTG GAC GGA CAG CAG TGC ATG CTT GAA ATT CTA GAC ACT GCC GGA ACA GAA CAA TTC ACC GCT ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCC ACT TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG GAC ACG GAC GAC GTG CCC ATG GTA CTC GTT GGT AAC AAG TGT GAT TTG GAG GAG GAA AGG GTC GTC GGG AAG GAT CAA GGT ATT AAT TTA GCA CGA CAG TTT AAC TGC GCT TTT ATG GAA ACA TCT GCC AAA GCC AAA ATC AAT GTT ATT GAT GTA NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN 
+Ibbis.PHUM226110                ATG AGG GAA TAT AAA ATC GTA GTT TTA GGT AGC GGT GGG GTG GGG AAG TCA GCC CTC ACC GTG CAG TTT GTC CAG GGG ATT TTC GTA GAG AAA TAC GAC CCG ACC ATA GAA GAC AGT TAT CGG AAA CAA GTG GAG GTG GAC GGG CAG CAG TGC ATG CTT GAA ATT TTA GAC ACT GCC GGA ACA GAA CAA TTC ACC GCG ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCC ACG TTT AAC GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG GTA AGT GAA CAG GTT CCC TTT CTC TGG GAA GGG NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN 
+Gdort.PHUM226110                ATG AGA GAA TAC AAA ATC GTA GTA TTA GGA AGC GGC GGT GTG GGG AAG TCC GCC CTC ACC GTC CAA TTC GTC CAG GGG ATA TTC GTA GAA AAG TAC GAT CCG ACC ATA GAA GAC AGT TAT CGG AAG CAG GTG GAG GTG GAC GGA CAG CAG TGC ATG CTC GAA ATT TTA GAC ACT GCC GGA ACT GAA CAA TTC ACC GCG ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGT TTT ATT CTT GTA TAC TCA ATT ACT GCC CAG TCC ACG TTT AAT GAC TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG GAC ACG GAC GAC GTG CCG ATG GTG CTC GTC GGT AAC AAG TGT GAT TTG GAG GAG GAA AGA GTT GTC GGG AAG GAT CAA GGT ATT AAT TTA GCT CGT CAG TTT AAT TGC GCT TTT ATG GAA ACA TCT GCC AAA GCC AAA ATC AAT GTT ATC GAT GTA NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN NNN 
+
+
+
+After deleting gaps. 312 sites
+     18    312
+
+Hbarb.PHUM226110                ATG AGG GAA TAT AAA ATT GTG GTG CTG GGT AGC GGA GGA GTT GGG AAG TCC GCC CTC ACC GTT CAA TTT GTC CAG GGA ATT TTC GTA GAG AAA TAT GAT CCC ACT ATA GAA GAC AGT TAT CGG AAG CAG GTG GAG GTC GAT GGT CAG CAG TGT ATG CTT GAA ATA TTA GAT ACT GCC GGA ACA GAA CAA TTC ACT GCT ATG AGA GAC TTG TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATT ACT GCC CAG TCG ACG TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATT TTA AGA GTA AAG 
+Ltspi.PHUM226110                ATG AGA GAG TAT AAA ATT GTG GTG CTG GGT AGT GGA GGA GTT GGA AAG TCC GCC CTC ACC GTT CAA TTT GTT CAG GGA ATA TTT GTT GAA AAA TAC GAC CCT ACC ATA GAA GAC AGC TAT CGG AAG CAG GTG GAA GTC GAC GGT CAG CAG TGC ATG CTT GAA ATA TTA GAC ACT GCC GGA ACA GAA CAA TTT ACT GCA ATG AGA GAT TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCG ACA TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAA 
+Nepac.PHUM226110                ATG AGA GAA TAC AAA ATT GTG GTG CTG GGT AGC GGA GGA GTT GGA AAG TCC GCC CTC ACC GTT CAA TTT GTC CAG GGA ATA TTC GTA GAG AAG TAC GAT CCC ACC ATA GAA GAC AGT TAT AGA AAG CAA GTG GAA GTG GAT GGT CAG CAG TGT ATG CTC GAA ATA TTA GAC ACT GCC GGT ACA GAA CAA TTC ACC GCC ATG AGA GAC TTG TAT ATG AAA AAT GGC CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCG ACG TTT AAC GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG 
+PdhumCA.PHUM226110              ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGT GGA GGA GTT GGT AAA TCC GCC CTC ACC GTT CAA TTC GTA CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACA ATT GAA GAC AGC TAT AGA AAG CAG GTG GAA GTC GAT GGT CAG CAG TGC ATG CTT GAA ATA TTA GAT ACT GCT GGA ACA GAA CAA TTT ACT GCT ATG AGA GAC TTA TAC ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG 
+PdhumNE.PHUM226110              ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGT GGA GGA GTT GGT AAA TCC GCC CTC ACC GTT CAA TTC GTA CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACA ATT GAA GAC AGC TAT AGA AAG CAG GTG GAA GTC GAT GGT CAG CAG TGC ATG CTT GAA ATA TTA GAT ACT GCT GGA ACA GAA CAA TTT ACT GCT ATG AGA GAC TTA TAC ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG 
+PdschKE.PHUM226110              ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGT GGA GGA GTT GGA AAA TCC GCC CTC ACC GTT CAA TTT GTT CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACA ATT GAA GAC AGC TAT CGG AAG CAG GTG GAA GTT GAT GGT CAG CAG TGC ATG CTT GAA ATA TTA GAT ACT GCT GGA ACA GAA CAA TTT ACT GCT ATG AGA GAC TTA TAC ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG 
+PdschUG.PHUM226110              ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGT GGA GGA GTT GGA AAA TCC GCC CTC ACC GTT CAA TTT GTT CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACA ATT GAA GAC AGC TAT CGG AAG CAG GTG GAA GTT GAT GGT CAG CAG TGC ATG CTT GAA ATA TTA GAT ACT GCT GGA ACA GAA CAA TTT ACT GCT ATG AGA GAC TTA TAC ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG 
+Pnbad.PHUM226110                ATG AGA GAA TAT AAA ATT GTG GTG CTA GGT AGC GGA GGA GTA GGA AAA TCC GCC CTC ACC GTT CAA TTT GTT CAA GGA ATT TTC GTA GAA AAA TAT GAT CCG ACT ATA GAA GAC AGC TAT AGA AAA CAA GTG GAA GTC GAT GGT CAG CAG TGC ATG CTT GAA ATT TTA GAC ACT GCC GGA ACA GAA CAA TTT ACC GCT ATG AGA GAC TTA TAC ATG AAG AAT GGT CAA GGC TTT ATA CTT GTA TAC TCA ATA ACT GCC CAG TCG ACA TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG 
+Ptgot.PHUM226110                ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGC GGA GGA GTT GGA AAG TCC GCC CTC ACC GTT CAG TTT GTT CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACT ATA GAG GAC AGC TAT AGA AAG CAA GTG GAA GTC GAC GGT CAG CAG TGC ATG CTT GAA ATA TTA GAC ACT GCT GGA ACA GAA CAA TTC ACA GCT ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAC GAT CTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG 
+Ptpub.PHUM226110                ATG AGA GAA TAT AAA ATT GTG GTG CTG GGT AGC GGA GGA GTT GGA AAG TCC GCC CTC ACC GTT CAG TTT GTT CAG GGA ATA TTT GTA GAA AAA TAT GAT CCG ACT ATA GAG GAC AGC TAT AGA AAG CAA GTG GAA GTC GAC GGT CAG CAG TGC ATG CTT GAG ATA TTA GAC ACT GCT GGA ACA GAA CAA TTC ACA GCT ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGT TTT ATA CTT GTA TAC TCA ATA ACA GCC CAG TCG ACG TTT AAC GAT CTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTT AAG 
+Mysp.PHUM226110                 ATG AGG GAA TAC AAG ATA GTG GTG CTG GGG AGT GGG GGC GTT GGA AAG TCC GCC CTC ACG GTT CAA TTT GTA CAA GGT ATA TTC GTC GAG AAA TAT GAT CCG ACG ATC GAA GAC AGC TAT AGA AAG CAG GTG GAG GTA GAC GGA CAA CAA TGC ATG CTT GAG ATT CTC GAT ACA GCA GGG ACG GAA CAA TTC ACG GCG ATG CGG GAT TTG TAC ATG AAA AAC GGC CAA GGT TTT ATC CTC GTG TAT TCA ATC ACG GCA CAG TCA ACA TTT AAT GAT TTA CAG GAT CTA AGA GAG CAG ATA TTA CGA GTT AAG 
+Chtex.PHUM226110                ATG AGA GAG TAC AAG ATC GTA GTG TTA GGG AGC GGC GGT GTG GGG AAG TCC GCC CTC ACC GTT CAG TTC GTT CAG GGG ATT TTC GTA GAG AAA TAT GAT CCG ACC ATA GAA GAC AGT TAT CGA AAG CAA GTA GAA GTG GAT GGA CAG CAG TGC ATG CTC GAG ATT TTG GAC ACT GCA GGA ACC GAA CAA TTC ACC GCG ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAT TCA ATA ACT GCC CAG TCC ACA TTT AAC GAC TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG 
+Geaur.PHUM226110                ATG AGG GAA TAT AAA ATT GTG GTG CTA GGG AGT GGA GGA GTA GGG AAG TCC GCC CTC ACC GTA CAA TTT GTT CAA GGG ATT TTT GTA GAG AAA TAT GAT CCG ACC ATA GAA GAC AGT TAT CGG AAA CAG GTA GAG GTG GAT GGT CAG CAG TGT ATG CTT GAA ATT CTA GAC ACT GCA GGA ACA GAG CAA TTC ACA GCA ATG AGA GAT TTA TAT ATG AAA AAT GGT CAA GGT TTT ATA CTT GTT TAT TCA ATA ACT GCC CAA TCA ACA TTT AAC GAT TTA CAA GAC CTT AGA GAA CAG ATA CTA AGA GTT AAA 
+Hldiv.PHUM226110                ATG AGG GAA TAT AAA ATT GTA GTA TTA GGA AGT GGT GGA GTG GGG AAG TCG GCG CTC ACC GTT CAG TTC GTT CAG GGG ATT TTC GTA GAG AAA TAC GAC CCG ACC ATA GAA GAC AGT TAT CGG AAG CAG GTC GAG GTG GAC GGA CAG CAG TGC ATG CTT GAA ATT CTA GAC ACT GCC GGA ACA GAA CAA TTC ACC GCT ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCC ACT TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG 
+Ibbis.PHUM226110                ATG AGG GAA TAT AAA ATC GTA GTT TTA GGT AGC GGT GGG GTG GGG AAG TCA GCC CTC ACC GTG CAG TTT GTC CAG GGG ATT TTC GTA GAG AAA TAC GAC CCG ACC ATA GAA GAC AGT TAT CGG AAA CAA GTG GAG GTG GAC GGG CAG CAG TGC ATG CTT GAA ATT TTA GAC ACT GCC GGA ACA GAA CAA TTC ACC GCG ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCC ACG TTT AAC GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG 
+Hldiv.PHUM226110                ATG AGG GAA TAT AAA ATT GTA GTA TTA GGA AGT GGT GGA GTG GGG AAG TCG GCG CTC ACC GTT CAG TTC GTT CAG GGG ATT TTC GTA GAG AAA TAC GAC CCG ACC ATA GAA GAC AGT TAT CGG AAG CAG GTC GAG GTG GAC GGA CAG CAG TGC ATG CTT GAA ATT CTA GAC ACT GCC GGA ACA GAA CAA TTC ACC GCT ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCC ACT TTT AAT GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG 
+Ibbis.PHUM226110                ATG AGG GAA TAT AAA ATC GTA GTT TTA GGT AGC GGT GGG GTG GGG AAG TCA GCC CTC ACC GTG CAG TTT GTC CAG GGG ATT TTC GTA GAG AAA TAC GAC CCG ACC ATA GAA GAC AGT TAT CGG AAA CAA GTG GAG GTG GAC GGG CAG CAG TGC ATG CTT GAA ATT TTA GAC ACT GCC GGA ACA GAA CAA TTC ACC GCG ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGC TTT ATT CTT GTA TAC TCA ATA ACT GCC CAG TCC ACG TTT AAC GAT TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG 
+Gdort.PHUM226110                ATG AGA GAA TAC AAA ATC GTA GTA TTA GGA AGC GGC GGT GTG GGG AAG TCC GCC CTC ACC GTC CAA TTC GTC CAG GGG ATA TTC GTA GAA AAG TAC GAT CCG ACC ATA GAA GAC AGT TAT CGG AAG CAG GTG GAG GTG GAC GGA CAG CAG TGC ATG CTC GAA ATT TTA GAC ACT GCC GGA ACT GAA CAA TTC ACC GCG ATG AGA GAC TTA TAT ATG AAA AAT GGT CAA GGT TTT ATT CTT GTA TAC TCA ATT ACT GCC CAG TCC ACG TTT AAT GAC TTA CAA GAT CTT AGA GAA CAG ATA TTA AGA GTA AAG 
+
+
+
+Printing out site pattern counts
+
+
+        18        294  P
+
+Hbarb.PHUM226110                AAA AAA AAA AAG AAG AAG AAT AAT ACA ACC ACG ACT ACT ACT ACT AGA AGA AGA AGC AGG AGT ATA ATA ATG ATT ATT ATT ATT ATT CAA CAA CAA CAG CAG CAG CAG CAG CCC CGG CTC CTG CTT CTT CTT GAA GAA GAA GAA GAA GAC GAC GAG GAG GAT GAT GAT GAT GAT GCC GCC GCC GCT GGA GGA GGA GGA GGC GGG GGT GGT GGT GTA GTA GTA GTC GTC GTG GTG GTG GTT GTT TAC TAT TAT TAT TAT TCA TCC TCG TGT TTA TTA TTA TTC TTC TTG TTT TTT 
+Ltspi.PHUM226110                ... ... ... ..A ... ... ... ... ... ... ..A ..C ... ... ... ... ... ... ..T ..A ..C ... ... ... ..A ..A ..A ... ... ... ... ... ... ... ... ... ... ..T ... ... ... ... ... ... ... ... ... ... ..G ... ..T ..A ..A ..C ..C ..C ... ... ... ... ... ..A ... ... ... ... ... ..A ... ... ... ... ..T ..T ... ..T ... ... ... ... ... ... ..C ... ... ... ... ... ... ..C ... ... ... ..T ..T ..A ... ... 
+Nepac.PHUM226110                ... ... ..G ... ... ... ..C ... ... ... ... ..C ..C ... ... ... ... ... ... ..A ... ... ... ... ..A ..A ..A ... ... ... ... ... ..A ... ... ... ... ... A.A ... ... ..C ... ... ... ... ... ... ... ... ... ..A ... ..C ... ... ... ... ... ... ... ..C ... ... ... ..T ... ..A ..C ... ... ... ... ..T ..G ... ... ... ... ... ... ... ..C ..C ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+PdhumCA.PHUM226110              ... ... ... ... ..A ... ... ... ... ... ... ..A ... ..A ... ... ... ... ..T ..A ..C ... ..T ... ..A ..A ..A ..A ... ... ... ... ... ... ... ... ... ..G A.A ... ... ... ... ... ... ... ... ... ... ... ... ..A ..A ... ... ... ... ... ... ... ..T ... ... ... ... ... ..T ..T ... ... ... ... ... ..T ... ..A ... ... ... ... ... ... ... ... ..C ... ... ... ... ..C ... ... ... ..T ..T ..A ..C ... 
+PdhumNE.PHUM226110              ... ... ... ... ..A ... ... ... ... ... ... ..A ... ..A ... ... ... ... ..T ..A ..C ... ..T ... ..A ..A ..A ..A ... ... ... ... ... ... ... ... ... ..G A.A ... ... ... ... ... ... ... ... ... ... ... ... ..A ..A ... ... ... ... ... ... ... ..T ... ... ... ... ... ..T ..T ... ... ... ... ... ..T ... ..A ... ... ... ... ... ... ... ... ..C ... ... ... ... ..C ... ... ... ..T ..T ..A ..C ... 
+PdschKE.PHUM226110              ... ... ... ... ..A ... ... ... ... ... ... ..A ... ..A ... ... ... ... ..T ..A ..C ... ..T ... ..A ..A ..A ..A ... ... ... ... ... ... ... ... ... ..G ... ... ... ... ... ... ... ... ... ... ... ... ... ..A ..A ... ... ... ... ... ... ... ..T ... ... ... ... ... ..T ..A ... ... ... ... ... ..T ..T ..T ... ... ... ... ... ... ... ... ..C ... ... ... ... ..C ... ... ... ..T ..T ..A ... ... 
+PdschUG.PHUM226110              ... ... ... ... ..A ... ... ... ... ... ... ..A ... ..A ... ... ... ... ..T ..A ..C ... ..T ... ..A ..A ..A ..A ... ... ... ... ... ... ... ... ... ..G ... ... ... ... ... ... ... ... ... ... ... ... ... ..A ..A ... ... ... ... ... ... ... ..T ... ... ... ... ... ..T ..A ... ... ... ... ... ..T ..T ..T ... ... ... ... ... ... ... ... ..C ... ... ... ... ..C ... ... ... ..T ..T ..A ... ... 
+Pnbad.PHUM226110                ... ..G ... ... ..A ..A ... ... ... ... ..A ... ..C ... ... ... ... ... ... ..A ..C ..T ... ... ..A ..A ... ..A ... ... ... ... ..A ..A ... ... ... ..G A.A ... ..A ... ... ... ... ... ... ... ... ... ... ..A ..A ..C ... ... ... ... ... ... ... ... ... ... ... ... ... ..A ... ... ... ... ... ..T ... ..T ... ... ... ..A ... ... ... ... ..C ... ... ... ... ..C ... ... ... ... ..T ..A ... ... 
+Ptgot.PHUM226110                ... ... ... ... ... ... ..C ... ... ... ... ... ..A ..A ... ... ... ... ... ..A ..C ... ... ... ..A ..A ..A ..A ... ... ... ..G ..A ... ... ... ... ..G A.A ... ... ... ... ... ... ... ... ..G ... ... ... ..A ..A ..C ..C ... ... ... ... ... ..T ... ... ... ... ... ..T ..A ... ... ... ... ... ..T ... ..T ... ... ... ... ... ... ... ... ... ... ... ... ... ..C C.. ... ... ..T ... ..A ... ... 
+Ptpub.PHUM226110                ... ... ... ... ... ... ..C ... ... ... ... ... ..A ..A ... ... ... ... ... ..A ..C ... ... ... ..A ..A ..A ..A ... ... ... ..G ..A ... ... ... ... ..G A.A ... ... ... ... ... ... ... ..G ..G ... ... ... ..A ..A ..C ..C ... ... ... ... ... ..T ... ... ... ... ... ..T ..A ... ... ... ... ... ..T ... ..T ... ... ... ... ... ... ... ... ... ... ... ... ... ..C C.. ... ... ..T ... ..A ... ... 
+Mysp.PHUM226110                 ..G ... ... ... ... ... ... ..C ..G ..G ..A ..G ..G ..G ..A ... C.. C.G ..T ... ..C ..T ..C ... ..A ..C ..A ..C ..A ... ..G ... ... ..A ..A ... ... ..G A.A ... ... ... ..A ..C ... ..G ..G ... ... ... ..T ... ... ... ..C ... ... ... ..A ... ..A ..G ..C ..G ..T ..G ..T ..A ..C ..A ..G ..G ..C ..T ..A ..A ... ... ... ... ... ..T ... ..C ..C ... ... ... ..A ..C ... C.C ... ... ... ... ... ... 
+Chtex.PHUM226110                ..G ... ... ... ... ... ..C ... ..C ... ..A ..C ..C ... ... ... ... ... ... ..A ... ..T ... ... ..A ..A ... ... ..C ... ... ..G ..A ... ... ... ... ..G ..A ... T.A ..C ... ... ... ... ..G ... ..G ... ... ..A ... ..C ... ... ..C ... ... ... ..A ..G ..T ..C ..G ... ... ... ... ..A ..G ... ... ... ..G ..T ..A ..A ... ..G ... ..T ... ..C ... ... ... ... ..C ..C ... ..G ... ... ... ..A ..C ... 
+Geaur.PHUM226110                ... ... ... ..A ... ..A ..C ... ... ... ..A ..C ..A ... ... ... ... ... ..T ... ... ..T ... ... ..A ..A ... ..A ... ... ... ... ... ..A ... ..A ... ..G ... ... ..A ... ... ... ..G ... ... ... ... ... ..T ... ... ..C ... ... ... ..C ... ... ..A ..A ... ... ..G ... ..T ... ... ... ..G ..T ... ..T ..G ..T ..A ... ... ..A ..A ..T ... ... ... ... ... ... ..A ... ... C.. C.. ..T ... ..A ... ... 
+Hldiv.PHUM226110                ... ... ... ... ... ... ... ... ... ... ..T ..C ..C ... ... ... ... ... ..T ... ... ..T ... ... ..A ..A ... ... ... ... ... ..G ... ... ... ... ... ..G ... ... T.A ... ... ... ... ... ... ... ... ... ... ... ... ..C ..C ..C ... ... ... ..G ... ... ... ..T ..G ... ... ... ... ..A ..A ... ... ... ..G ..T ..C ..A ..A ..G ... ... ..C ... ... ... ... ..G ..C ..C ... C.. ... ... ... ..A ..C ... 
+Ibbis.PHUM226110                ... ... ... ... ... ..A ..C ... ... ... ... ..C ..C ... ... ... ... ... ... ... ... ..T ... ... ..A ..A ... ... ..C ... ... ..G ..A ... ... ... ... ..G ... ... T.A ... ... ... ... ... ... ... ... ... ... ... ... ..C ..C ..C ... ... ... ... ... ..G ..G ..T ..G ... ... ... ... ..G ... ... ... ... ..G ... ... ..A ..T ..G ..G ... ..C ... ... ... ... ..A ..C ..C ... ... ... ... ... ..A ... ... 
+Hldiv.PHUM226110                ... ... ... ... ... ... ... ... ... ... ..T ..C ..C ... ... ... ... ... ..T ... ... ..T ... ... ..A ..A ... ... ... ... ... ..G ... ... ... ... ... ..G ... ... T.A ... ... ... ... ... ... ... ... ... ... ... ... ..C ..C ..C ... ... ... ..G ... ... ... ..T ..G ... ... ... ... ..A ..A ... ... ... ..G ..T ..C ..A ..A ..G ... ... ..C ... ... ... ... ..G ..C ..C ... C.. ... ... ... ..A ..C ... 
+Ibbis.PHUM226110                ... ... ... ... ... ..A ..C ... ... ... ... ..C ..C ... ... ... ... ... ... ... ... ..T ... ... ..A ..A ... ... ..C ... ... ..G ..A ... ... ... ... ..G ... ... T.A ... ... ... ... ... ... ... ... ... ... ... ... ..C ..C ..C ... ... ... ... ... ..G ..G ..T ..G ... ... ... ... ..G ... ... ... ... ..G ... ... ..A ..T ..G ..G ... ..C ... ... ... ... ..A ..C ..C ... ... ... ... ... ..A ... ... 
+Gdort.PHUM226110                ... ... ..G ... ... ... ... ... ..T ... ... ..C ..C ... ... ... ... ... ... ..A ... ..T ... ... ..A ... ..A ... ..C ... ... ... ... ... ... ... ... ..G ... ... T.A ..C ... ... ... ... ... ... ... ... ... ... ..A ..C ..C ... ..C ... ... ... ... ..G ..T ..C ..G ... ..T ... ... ..A ..A ... ... ... ..G ... ... ..A ..A ..G ..C ... ..C ..C ... ... ... ... ..C ..C ... ... ... ... ... ..A ..C ... 
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    4    1    1    1    1    1    2
+    1    1    1    1    2    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    2
+
+CODONML (in paml version 4.9f, October 2017)  PHUM226110.fasta
+Model: One dN/dS ratio for branches,  omega = 0.001 fixed
+
+Codon frequency model: Fcodon
+ns =  18  ls = 104
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   3   5   3   4   4   5 | Ser TCT   0   0   0   0   0   0 | Tyr TAT   4   3   2   3   3   3 | Cys TGT   1   0   1   0   0   0
+    TTC   2   0   2   1   1   0 |     TCC   1   1   1   1   1   1 |     TAC   1   2   3   2   2   2 |     TGC   0   1   0   1   1   1
+Leu TTA   3   4   3   4   4   4 |     TCA   1   1   1   1   1   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   0   1   0   0   0 |     TCG   1   1   1   1   1   1 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   3   3   2   3   3   3 | Pro CCT   0   1   0   0   0   0 | His CAT   0   0   0   0   0   0 | Arg CGT   0   0   0   0   0   0
+    CTC   1   1   2   1   1   1 |     CCC   1   0   1   0   0   0 |     CAC   0   0   0   0   0   0 |     CGC   0   0   0   0   0   0
+    CTA   0   0   0   0   0   0 |     CCA   0   0   0   0   0   0 | Gln CAA   4   4   5   4   4   4 |     CGA   0   0   0   0   0   0
+    CTG   1   1   1   1   1   1 |     CCG   0   0   0   1   1   1 |     CAG   6   6   5   6   6   6 |     CGG   1   1   0   0   0   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   5   2   2   2   2   2 | Thr ACT   4   3   2   2   2   2 | Asn AAT   2   2   1   2   2   2 | Ser AGT   1   1   1   1   1   1
+    ATC   0   0   0   0   0   0 |     ACC   1   2   3   1   1   1 |     AAC   0   0   1   0   0   0 |     AGC   1   1   1   1   1   1
+    ATA   2   5   5   5   5   5 |     ACA   1   2   1   3   3   3 | Lys AAA   3   4   2   4   4   4 | Arg AGA   3   4   5   5   5   4
+Met ATG   4   4   4   4   4   4 |     ACG   1   0   1   1   1   1 |     AAG   3   2   4   2   2   2 |     AGG   1   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   2   5   3   3   3   5 | Ala GCT   1   0   0   2   2   2 | Asp GAT   5   3   4   5   5   5 | Gly GGT   3   3   3   5   5   4
+    GTC   2   1   1   1   1   0 |     GCC   3   3   4   2   2   2 |     GAC   2   4   3   2   2   2 |     GGC   1   1   2   0   0   0
+    GTA   3   1   2   3   3   2 |     GCA   0   1   0   0   0   0 | Glu GAA   5   6   6   7   7   7 |     GGA   4   5   4   4   4   5
+    GTG   3   3   4   3   3   3 |     GCG   0   0   0   0   0   0 |     GAG   2   1   1   0   0   0 |     GGG   1   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   5   4   4   4   3   2 | Ser TCT   0   0   0   0   0   0 | Tyr TAT   3   3   4   4   3   4 | Cys TGT   0   0   0   0   0   0
+    TTC   0   1   1   1   2   3 |     TCC   1   1   1   1   1   2 |     TAC   2   2   1   1   2   1 |     TGC   1   1   1   1   1   1
+Leu TTA   4   4   3   3   2   4 |     TCA   1   1   1   1   2   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   0   0   0   0   1   1 |     TCG   1   1   1   1   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   3   3   3   3   1   2 | Pro CCT   0   0   0   0   0   0 | His CAT   0   0   0   0   0   0 | Arg CGT   0   0   0   0   0   0
+    CTC   1   1   1   1   3   2 |     CCC   0   0   0   0   0   0 |     CAC   0   0   0   0   0   0 |     CGC   0   0   0   0   0   0
+    CTA   0   1   1   1   1   0 |     CCA   0   0   0   0   0   0 | Gln CAA   4   6   4   4   6   4 |     CGA   0   0   0   0   1   1
+    CTG   1   0   1   1   1   0 |     CCG   1   1   1   1   1   1 |     CAG   6   4   6   6   4   6 |     CGG   1   0   0   0   1   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   2   3   1   1   1   3 | Thr ACT   2   3   2   2   0   2 | Asn AAT   2   2   1   1   1   1 | Ser AGT   1   0   0   0   1   1
+    ATC   0   0   0   0   3   1 |     ACC   1   2   1   1   0   4 |     AAC   0   0   1   1   1   1 |     AGC   1   2   2   2   1   1
+    ATA   5   4   6   6   3   3 |     ACA   3   2   3   3   2   1 | Lys AAA   4   4   3   3   2   2 | Arg AGA   4   5   5   5   2   4
+Met ATG   4   4   4   4   4   4 |     ACG   1   0   1   1   5   0 |     AAG   2   2   3   3   4   4 |     AGG   0   0   0   0   1   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   5   3   4   4   3   2 | Ala GCT   2   1   2   2   0   0 | Asp GAT   5   4   3   3   5   3 | Gly GGT   4   3   4   4   2   2
+    GTC   0   1   1   1   1   0 |     GCC   2   3   2   2   1   2 |     GAC   2   3   4   4   2   4 |     GGC   0   1   0   0   2   2
+    GTA   2   3   2   2   2   5 |     GCA   0   0   0   0   2   1 | Glu GAA   7   7   6   5   3   4 |     GGA   5   5   5   5   2   2
+    GTG   3   3   3   3   4   3 |     GCG   0   0   0   0   1   1 |     GAG   0   0   1   2   4   3 |     GGG   0   0   0   0   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   4   2   3   2   3   2 | Ser TCT   0   0   0   0   0   0 | Tyr TAT   5   3   3   3   3   2 | Cys TGT   1   0   0   0   0   0
+    TTC   1   3   2   3   2   3 |     TCC   1   1   1   1   1   2 |     TAC   0   2   2   2   2   3 |     TGC   0   1   1   1   1   1
+Leu TTA   2   4   5   4   5   5 |     TCA   2   1   2   1   2   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   0   0   0   0   0   0 |     TCG   0   1   0   1   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   3   3   3   3   3   2 | Pro CCT   0   0   0   0   0   0 | His CAT   0   0   0   0   0   0 | Arg CGT   0   0   0   0   0   0
+    CTC   1   1   1   1   1   2 |     CCC   0   0   0   0   0   0 |     CAC   0   0   0   0   0   0 |     CGC   0   0   0   0   0   0
+    CTA   3   1   0   1   0   0 |     CCA   0   0   0   0   0   0 | Gln CAA   6   3   4   3   4   4 |     CGA   0   0   0   0   0   0
+    CTG   0   0   0   0   0   0 |     CCG   1   1   1   1   1   1 |     CAG   4   7   6   7   6   6 |     CGG   1   1   1   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   3   4   3   4   3   3 | Thr ACT   2   3   2   3   2   3 | Asn AAT   1   2   1   2   1   2 | Ser AGT   2   2   1   2   1   1
+    ATC   0   0   1   0   1   1 |     ACC   2   3   3   3   3   3 |     AAC   1   0   1   0   1   0 |     AGC   0   0   1   0   1   1
+    ATA   4   3   3   3   3   3 |     ACA   3   1   1   1   1   0 | Lys AAA   5   3   4   3   4   2 | Arg AGA   3   3   3   3   3   4
+Met ATG   4   4   4   4   4   4 |     ACG   0   0   1   0   1   1 |     AAG   1   3   2   3   2   4 |     AGG   1   1   1   1   1   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   3   2   1   2   1   0 | Ala GCT   0   1   0   1   0   0 | Asp GAT   4   2   2   2   2   2 | Gly GGT   3   2   3   2   3   3
+    GTC   0   1   1   1   1   2 |     GCC   2   2   3   2   3   3 |     GAC   3   5   5   5   5   5 |     GGC   0   1   1   1   1   1
+    GTA   4   5   4   5   4   5 |     GCA   2   0   0   0   0   0 | Glu GAA   4   5   5   5   5   6 |     GGA   3   4   1   4   1   3
+    GTG   3   2   4   2   4   3 |     GCG   0   1   1   1   1   1 |     GAG   3   2   2   2   2   1 |     GGG   3   2   4   2   4   2
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: Hbarb.PHUM226110
+position  1:    T:0.17308    C:0.16346    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.32692    C:0.15385    A:0.27885    G:0.24038
+Average         T:0.27885    C:0.15385    A:0.31410    G:0.25321
+
+#2: Ltspi.PHUM226110
+position  1:    T:0.17308    C:0.16346    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.29808    C:0.16346    A:0.35577    G:0.18269
+Average         T:0.26923    C:0.15705    A:0.33974    G:0.23397
+
+#3: Nepac.PHUM226110
+position  1:    T:0.17308    C:0.15385    A:0.31731    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.23077    C:0.23077    A:0.32692    G:0.21154
+Average         T:0.24679    C:0.17628    A:0.33333    G:0.24359
+
+#4: PdhumCA.PHUM226110
+position  1:    T:0.17308    C:0.15385    A:0.31731    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.30769    C:0.12500    A:0.38462    G:0.18269
+Average         T:0.27244    C:0.14103    A:0.35256    G:0.23397
+
+#5: PdhumNE.PHUM226110
+position  1:    T:0.17308    C:0.15385    A:0.31731    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.30769    C:0.12500    A:0.38462    G:0.18269
+Average         T:0.27244    C:0.14103    A:0.35256    G:0.23397
+
+#6: PdschKE.PHUM226110
+position  1:    T:0.17308    C:0.16346    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.32692    C:0.10577    A:0.37500    G:0.19231
+Average         T:0.27885    C:0.13782    A:0.34615    G:0.23718
+
+#7: PdschUG.PHUM226110
+position  1:    T:0.17308    C:0.16346    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.32692    C:0.10577    A:0.37500    G:0.19231
+Average         T:0.27885    C:0.13782    A:0.34615    G:0.23718
+
+#8: Pnbad.PHUM226110
+position  1:    T:0.17308    C:0.15385    A:0.31731    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.27885    C:0.17308    A:0.40385    G:0.14423
+Average         T:0.26282    C:0.15705    A:0.35897    G:0.22115
+
+#9: Ptgot.PHUM226110
+position  1:    T:0.16346    C:0.16346    A:0.31731    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.26923    C:0.15385    A:0.37500    G:0.20192
+Average         T:0.25641    C:0.15385    A:0.34936    G:0.24038
+
+#10: Ptpub.PHUM226110
+position  1:    T:0.16346    C:0.16346    A:0.31731    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.26923    C:0.15385    A:0.36538    G:0.21154
+Average         T:0.25641    C:0.15385    A:0.34615    G:0.24359
+
+#11: Mysp.PHUM226110
+position  1:    T:0.16346    C:0.18269    A:0.29808    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.19231    C:0.19231    A:0.28846    G:0.32692
+Average         T:0.23077    C:0.17308    A:0.31410    G:0.28205
+
+#12: Chtex.PHUM226110
+position  1:    T:0.18269    C:0.15385    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.21154    C:0.23077    A:0.30769    G:0.25000
+Average         T:0.24359    C:0.17628    A:0.32372    G:0.25641
+
+#13: Geaur.PHUM226110
+position  1:    T:0.15385    C:0.18269    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.29808    C:0.10577    A:0.39423    G:0.20192
+Average         T:0.26282    C:0.14423    A:0.35256    G:0.24038
+
+#14: Hldiv.PHUM226110
+position  1:    T:0.17308    C:0.16346    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.25000    C:0.19231    A:0.31731    G:0.24038
+Average         T:0.25321    C:0.16667    A:0.32692    G:0.25321
+
+#15: Ibbis.PHUM226110
+position  1:    T:0.18269    C:0.15385    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.21154    C:0.22115    A:0.30769    G:0.25962
+Average         T:0.24359    C:0.17308    A:0.32372    G:0.25962
+
+#16: Hldiv.PHUM226110
+position  1:    T:0.17308    C:0.16346    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.25000    C:0.19231    A:0.31731    G:0.24038
+Average         T:0.25321    C:0.16667    A:0.32692    G:0.25321
+
+#17: Ibbis.PHUM226110
+position  1:    T:0.18269    C:0.15385    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.21154    C:0.22115    A:0.30769    G:0.25962
+Average         T:0.24359    C:0.17308    A:0.32372    G:0.25962
+
+#18: Gdort.PHUM226110
+position  1:    T:0.18269    C:0.15385    A:0.30769    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.19231    C:0.25962    A:0.31731    G:0.23077
+Average         T:0.23718    C:0.18590    A:0.32692    G:0.25000
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      62 | Ser S TCT       0 | Tyr Y TAT      58 | Cys C TGT       3
+      TTC      28 |       TCC      20 |       TAC      32 |       TGC      15
+Leu L TTA      67 |       TCA      22 | *** * TAA       0 | *** * TGA       0
+      TTG       4 |       TCG      12 |       TAG       0 | Trp W TGG       0
+------------------------------------------------------------------------------
+Leu L CTT      49 | Pro P CCT       1 | His H CAT       0 | Arg R CGT       0
+      CTC      23 |       CCC       2 |       CAC       0 |       CGC       0
+      CTA       9 |       CCA       0 | Gln Q CAA      77 |       CGA       2
+      CTG      10 |       CCG      15 |       CAG     103 |       CGG      11
+------------------------------------------------------------------------------
+Ile I ATT      46 | Thr T ACT      41 | Asn N AAT      28 | Ser S AGT      18
+      ATC       7 |       ACC      35 |       AAC       8 |       AGC      18
+      ATA      73 |       ACA      34 | Lys K AAA      60 | Arg R AGA      70
+Met M ATG      72 |       ACG      16 |       AAG      48 |       AGG       7
+------------------------------------------------------------------------------
+Val V GTT      51 | Ala A GCT      16 | Asp D GAT      64 | Gly G GGT      58
+      GTC      16 |       GCC      43 |       GAC      62 |       GGC      14
+      GTA      57 |       GCA       6 | Glu E GAA     100 |       GGA      66
+      GTG      56 |       GCG       7 |       GAG      26 |       GGG      24
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.17254    C:0.16132    A:0.31036    G:0.35577
+position  2:    T:0.33654    C:0.14423    A:0.35577    G:0.16346
+position  3:    T:0.26442    C:0.17254    A:0.34348    G:0.21955
+Average         T:0.25783    C:0.15937    A:0.33654    G:0.24626
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.03311966  0.01495726  0.03579060  0.00213675
+  0.00000000  0.01068376  0.01175214  0.00641026
+  0.03098291  0.01709402  0.00000000  0.00000000
+  0.00160256  0.00801282  0.00000000  0.00000000
+  0.02617521  0.01228632  0.00480769  0.00534188
+  0.00053419  0.00106838  0.00000000  0.00801282
+  0.00000000  0.00000000  0.04113248  0.05502137
+  0.00000000  0.00000000  0.00106838  0.00587607
+  0.02457265  0.00373932  0.03899573  0.03846154
+  0.02190171  0.01869658  0.01816239  0.00854701
+  0.01495726  0.00427350  0.03205128  0.02564103
+  0.00961538  0.00961538  0.03739316  0.00373932
+  0.02724359  0.00854701  0.03044872  0.02991453
+  0.00854701  0.02297009  0.00320513  0.00373932
+  0.03418803  0.03311966  0.05341880  0.01388889
+  0.03098291  0.00747863  0.03525641  0.01282051
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+Hbarb.PHUM226110    
+Ltspi.PHUM226110    -1.0000 (0.0000 0.5465)
+Nepac.PHUM226110    -1.0000 (0.0000 0.4138)-1.0000 (0.0000 0.5804)
+PdhumCA.PHUM226110  -1.0000 (0.0000 0.5507)-1.0000 (0.0000 0.4643)-1.0000 (0.0000 0.6864)
+PdhumNE.PHUM226110  -1.0000 (0.0000 0.5507)-1.0000 (0.0000 0.4643)-1.0000 (0.0000 0.6864)-1.0000 (0.0000 0.0000)
+PdschKE.PHUM226110  -1.0000 (0.0000 0.4892)-1.0000 (0.0000 0.3618)-1.0000 (0.0000 0.6807)-1.0000 (0.0000 0.0920)-1.0000 (0.0000 0.0920)
+PdschUG.PHUM226110  -1.0000 (0.0000 0.4892)-1.0000 (0.0000 0.3618)-1.0000 (0.0000 0.6807)-1.0000 (0.0000 0.0920)-1.0000 (0.0000 0.0920)-1.0000 (0.0000 0.0000)
+Pnbad.PHUM226110    -1.0000 (0.0000 0.5809)-1.0000 (0.0000 0.5194)-1.0000 (0.0000 0.5844)-1.0000 (0.0000 0.3903)-1.0000 (0.0000 0.3903)-1.0000 (0.0000 0.3877)-1.0000 (0.0000 0.3877)
+Ptgot.PHUM226110    -1.0000 (0.0000 0.5774)-1.0000 (0.0000 0.4614)-1.0000 (0.0000 0.4923)-1.0000 (0.0000 0.2971)-1.0000 (0.0000 0.2971)-1.0000 (0.0000 0.2953)-1.0000 (0.0000 0.2953)-1.0000 (0.0000 0.3879)
+Ptpub.PHUM226110    -1.0000 (0.0000 0.6092)-1.0000 (0.0000 0.4884)-1.0000 (0.0000 0.5207)-1.0000 (0.0000 0.3189)-1.0000 (0.0000 0.3189)-1.0000 (0.0000 0.3169)-1.0000 (0.0000 0.3169)-1.0000 (0.0000 0.4125)-1.0000 (0.0000 0.0145)
+Mysp.PHUM226110     -1.0000 (0.0041 -1.0000)-1.0000 (0.0041 -1.0000)-1.0000 (0.0041 -1.0000)-1.0000 (0.0041 -1.0000)-1.0000 (0.0041 -1.0000)-1.0000 (0.0041 -1.0000)-1.0000 (0.0041 -1.0000)-1.0000 (0.0041 -1.0000)-1.0000 (0.0041 -1.0000)-1.0000 (0.0041 -1.0000)
+Chtex.PHUM226110    -1.0000 (0.0000 1.2455)-1.0000 (0.0000 1.5095)-1.0000 (0.0000 0.9452)-1.0000 (0.0000 1.9824)-1.0000 (0.0000 1.9824)-1.0000 (0.0000 1.9340)-1.0000 (0.0000 1.9340)-1.0000 (0.0000 1.0527)-1.0000 (0.0000 1.2419)-1.0000 (0.0000 1.1698)-1.0000 (0.0041 -1.0000)
+Geaur.PHUM226110    -1.0000 (0.0000 0.9140)-1.0000 (0.0000 0.9110)-1.0000 (0.0000 1.2937)-1.0000 (0.0000 1.2918)-1.0000 (0.0000 1.2918)-1.0000 (0.0000 1.0138)-1.0000 (0.0000 1.0138)-1.0000 (0.0000 0.8718)-1.0000 (0.0000 1.0723)-1.0000 (0.0000 1.1344)-1.0000 (0.0000 -1.0000)-1.0000 (0.0000 1.1495)
+Hldiv.PHUM226110    -1.0000 (0.0000 0.7139)-1.0000 (0.0000 0.8325)-1.0000 (0.0000 1.1040)-1.0000 (0.0000 1.3196)-1.0000 (0.0000 1.3196)-1.0000 (0.0000 1.1541)-1.0000 (0.0000 1.1541)-1.0000 (0.0000 0.9853)-1.0000 (0.0000 1.1556)-1.0000 (0.0000 1.2259)-1.0000 (0.0000 -1.0000)-1.0000 (0.0000 0.6475)-1.0000 (0.0000 0.9130)
+Ibbis.PHUM226110    -1.0000 (0.0000 0.6832)-1.0000 (0.0000 0.9865)-1.0000 (0.0000 0.8054)-1.0000 (0.0000 1.8019)-1.0000 (0.0000 1.8019)-1.0000 (0.0000 1.4085)-1.0000 (0.0000 1.4085)-1.0000 (0.0000 0.8937)-1.0000 (0.0000 0.9876)-1.0000 (0.0000 1.0436)-1.0000 (0.0041 -1.0000)-1.0000 (0.0000 0.5864)-1.0000 (0.0000 1.0272)-1.0000 (0.0000 0.3196)
+Hldiv.PHUM226110    -1.0000 (0.0000 0.7139)-1.0000 (0.0000 0.8325)-1.0000 (0.0000 1.1040)-1.0000 (0.0000 1.3196)-1.0000 (0.0000 1.3196)-1.0000 (0.0000 1.1541)-1.0000 (0.0000 1.1541)-1.0000 (0.0000 0.9853)-1.0000 (0.0000 1.1556)-1.0000 (0.0000 1.2259)-1.0000 (0.0000 -1.0000)-1.0000 (0.0000 0.6475)-1.0000 (0.0000 0.9130)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.3196)
+Ibbis.PHUM226110    -1.0000 (0.0000 0.6832)-1.0000 (0.0000 0.9865)-1.0000 (0.0000 0.8054)-1.0000 (0.0000 1.8019)-1.0000 (0.0000 1.8019)-1.0000 (0.0000 1.4085)-1.0000 (0.0000 1.4085)-1.0000 (0.0000 0.8937)-1.0000 (0.0000 0.9876)-1.0000 (0.0000 1.0436)-1.0000 (0.0041 -1.0000)-1.0000 (0.0000 0.5864)-1.0000 (0.0000 1.0272)-1.0000 (0.0000 0.3196)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.3196)
+Gdort.PHUM226110    -1.0000 (0.0000 0.8420)-1.0000 (0.0000 1.1012)-1.0000 (0.0000 0.8046)-1.0000 (0.0000 1.3362)-1.0000 (0.0000 1.3362)-1.0000 (0.0000 1.2383)-1.0000 (0.0000 1.2383)-1.0000 (0.0000 1.2528)-1.0000 (0.0000 1.2401)-1.0000 (0.0000 1.3196)-1.0000 (0.0041 -1.0000)-1.0000 (0.0000 0.4963)-1.0000 (0.0000 1.5849)-1.0000 (0.0000 0.4654)-1.0000 (0.0000 0.4420)-1.0000 (0.0000 0.4654)-1.0000 (0.0000 0.4420)
+NOTE: -1 means that NG86 is inapplicable.
+
+pairwise comparison, codon frequencies: Fcodon.
+
+
+2 (Ltspi.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -446.272188
+  0.53648  5.37974
+
+t= 0.5365  S=    83.5  N=   228.5  dN/dS=  0.0010  dN = 0.0007  dS = 0.6665
+
+
+3 (Nepac.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -442.085432
+  0.28510  1.63792
+
+t= 0.2851  S=    74.5  N=   237.5  dN/dS=  0.0010  dN = 0.0004  dS = 0.3966
+
+
+3 (Nepac.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -457.903709
+  5.69174 79.41584
+
+t= 5.6917  S=    93.2  N=   218.8  dN/dS=  0.0010  dN = 0.0063  dS = 6.3349
+
+
+4 (PdhumCA.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -450.535148
+  0.40479  1.12405
+
+t= 0.4048  S=    63.0  N=   249.0  dN/dS=  0.0010  dN = 0.0007  dS = 0.6660
+
+
+4 (PdhumCA.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -453.568755
+  0.45832  2.18012
+
+t= 0.4583  S=    63.1  N=   248.9  dN/dS=  0.0010  dN = 0.0008  dS = 0.7525
+
+
+4 (PdhumCA.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -444.895422
+  1.12354  6.46720
+
+t= 1.1235  S=    82.0  N=   230.0  dN/dS=  0.0010  dN = 0.0014  dS = 1.4209
+
+
+5 (PdhumNE.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -450.535148
+  0.40479  1.12405
+
+t= 0.4048  S=    63.0  N=   249.0  dN/dS=  0.0010  dN = 0.0007  dS = 0.6660
+
+
+5 (PdhumNE.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -453.568759
+  0.46368  2.27307
+
+t= 0.4637  S=    63.5  N=   248.5  dN/dS=  0.0010  dN = 0.0008  dS = 0.7570
+
+
+5 (PdhumNE.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -444.895422
+  1.12354  6.46720
+
+t= 1.1235  S=    82.0  N=   230.0  dN/dS=  0.0010  dN = 0.0014  dS = 1.4209
+
+
+5 (PdhumNE.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -362.320567
+  0.00001  5.17844
+
+t= 0.0000  S=    66.0  N=   246.0  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+6 (PdschKE.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -444.177683
+  0.37543  1.72328
+
+t= 0.3754  S=    66.3  N=   245.7  dN/dS=  0.0010  dN = 0.0006  dS = 0.5865
+
+
+6 (PdschKE.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -420.598005
+  0.30205  2.49992
+
+t= 0.3020  S=    61.4  N=   250.6  dN/dS=  0.0010  dN = 0.0005  dS = 0.5098
+
+
+6 (PdschKE.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -463.039126
+  4.88687 37.92381
+
+t= 4.8869  S=    86.7  N=   225.3  dN/dS=  0.0010  dN = 0.0058  dS = 5.8465
+
+
+6 (PdschKE.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -414.426827
+  0.09484  5.24080
+
+t= 0.0948  S=    63.2  N=   248.8  dN/dS=  0.0010  dN = 0.0002  dS = 0.1554
+
+
+6 (PdschKE.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -414.747630
+  0.05276  4.32669
+
+t= 0.0528  S=    62.1  N=   249.9  dN/dS=  0.0010  dN = 0.0001  dS = 0.0880
+
+
+7 (PdschUG.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -444.177683
+  0.37543  1.72328
+
+t= 0.3754  S=    66.3  N=   245.7  dN/dS=  0.0010  dN = 0.0006  dS = 0.5865
+
+
+7 (PdschUG.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -420.598005
+  0.30205  2.49992
+
+t= 0.3020  S=    61.4  N=   250.6  dN/dS=  0.0010  dN = 0.0005  dS = 0.5098
+
+
+7 (PdschUG.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -463.039121
+  4.87891 37.81918
+
+t= 4.8789  S=    86.7  N=   225.3  dN/dS=  0.0010  dN = 0.0058  dS = 5.8373
+
+
+7 (PdschUG.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -414.350481
+  0.09259  5.00379
+
+t= 0.0926  S=    63.0  N=   249.0  dN/dS=  0.0010  dN = 0.0002  dS = 0.1523
+
+
+7 (PdschUG.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -414.046110
+  0.08955  4.00231
+
+t= 0.0895  S=    61.6  N=   250.4  dN/dS=  0.0010  dN = 0.0002  dS = 0.1505
+
+
+7 (PdschUG.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -359.478756
+  0.00001  3.46873
+
+t= 0.0000  S=    57.3  N=   254.7  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+8 (Pnbad.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -450.896875
+  0.44162  2.36165
+
+t= 0.4416  S=    75.1  N=   236.9  dN/dS=  0.0010  dN = 0.0006  dS = 0.6100
+
+
+8 (Pnbad.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -454.392852
+  0.57626  4.13486
+
+t= 0.5763  S=    71.6  N=   240.4  dN/dS=  0.0010  dN = 0.0008  dS = 0.8342
+
+
+8 (Pnbad.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -443.410544
+  0.57488  4.22374
+
+t= 0.5749  S=    80.3  N=   231.7  dN/dS=  0.0010  dN = 0.0007  dS = 0.7425
+
+
+8 (Pnbad.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -421.104082
+  0.29044  1.55879
+
+t= 0.2904  S=    60.5  N=   251.5  dN/dS=  0.0010  dN = 0.0005  dS = 0.4976
+
+
+8 (Pnbad.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -421.104082
+  0.29044  1.55879
+
+t= 0.2904  S=    60.5  N=   251.5  dN/dS=  0.0010  dN = 0.0005  dS = 0.4976
+
+
+8 (Pnbad.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -445.076585
+  0.37773  2.94767
+
+t= 0.3777  S=    64.0  N=   248.0  dN/dS=  0.0010  dN = 0.0006  dS = 0.6114
+
+
+8 (Pnbad.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -445.074216
+  0.38054  3.04420
+
+t= 0.3805  S=    64.3  N=   247.7  dN/dS=  0.0010  dN = 0.0006  dS = 0.6135
+
+
+9 (Ptgot.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -454.473445
+  0.41752  2.02535
+
+t= 0.4175  S=    74.3  N=   237.7  dN/dS=  0.0010  dN = 0.0006  dS = 0.5827
+
+
+9 (Ptgot.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -457.616033
+  0.51852  4.49268
+
+t= 0.5185  S=    73.7  N=   238.3  dN/dS=  0.0010  dN = 0.0007  dS = 0.7292
+
+
+9 (Ptgot.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -441.253381
+  0.41190  3.68784
+
+t= 0.4119  S=    80.3  N=   231.7  dN/dS=  0.0010  dN = 0.0005  dS = 0.5317
+
+
+9 (Ptgot.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -415.020221
+  0.21721  2.58622
+
+t= 0.2172  S=    66.5  N=   245.5  dN/dS=  0.0010  dN = 0.0003  dS = 0.3384
+
+
+9 (Ptgot.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -415.020221
+  0.21721  2.58622
+
+t= 0.2172  S=    66.5  N=   245.5  dN/dS=  0.0010  dN = 0.0003  dS = 0.3384
+
+
+9 (Ptgot.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -438.759802
+  0.27241  4.18735
+
+t= 0.2724  S=    68.1  N=   243.9  dN/dS=  0.0010  dN = 0.0004  dS = 0.4148
+
+
+9 (Ptgot.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -438.849495
+  0.26915  3.62386
+
+t= 0.2691  S=    66.9  N=   245.1  dN/dS=  0.0010  dN = 0.0004  dS = 0.4168
+
+
+9 (Ptgot.PHUM226110) ... 8 (Pnbad.PHUM226110)
+lnL = -423.365785
+  0.31194  3.85771
+
+t= 0.3119  S=    73.6  N=   238.4  dN/dS=  0.0010  dN = 0.0004  dS = 0.4394
+
+
+10 (Ptpub.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -455.934914
+  0.44058  2.14694
+
+t= 0.4406  S=    76.0  N=   236.0  dN/dS=  0.0010  dN = 0.0006  dS = 0.6011
+
+
+10 (Ptpub.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -459.264179
+  0.57142  4.98536
+
+t= 0.5714  S=    76.3  N=   235.7  dN/dS=  0.0010  dN = 0.0008  dS = 0.7761
+
+
+10 (Ptpub.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -443.033521
+  0.43944  3.90148
+
+t= 0.4394  S=    82.4  N=   229.6  dN/dS=  0.0010  dN = 0.0006  dS = 0.5531
+
+
+10 (Ptpub.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -417.656377
+  0.23465  2.77145
+
+t= 0.2347  S=    68.8  N=   243.2  dN/dS=  0.0010  dN = 0.0004  dS = 0.3535
+
+
+10 (Ptpub.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -417.656377
+  0.23465  2.77145
+
+t= 0.2347  S=    68.8  N=   243.2  dN/dS=  0.0010  dN = 0.0004  dS = 0.3535
+
+
+10 (Ptpub.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -441.147928
+  0.30092  5.06363
+
+t= 0.3009  S=    71.5  N=   240.5  dN/dS=  0.0010  dN = 0.0004  dS = 0.4364
+
+
+10 (Ptpub.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -441.170959
+  0.29632  4.58904
+
+t= 0.2963  S=    70.7  N=   241.3  dN/dS=  0.0010  dN = 0.0004  dS = 0.4344
+
+
+10 (Ptpub.PHUM226110) ... 8 (Pnbad.PHUM226110)
+lnL = -425.800034
+  0.33464  4.07836
+
+t= 0.3346  S=    76.0  N=   236.0  dN/dS=  0.0010  dN = 0.0005  dS = 0.4563
+
+
+10 (Ptpub.PHUM226110) ... 9 (Ptgot.PHUM226110)
+lnL = -371.741771
+  0.00980 999.00000
+
+t= 0.0098  S=    89.5  N=   222.5  dN/dS=  0.0010  dN = 0.0000  dS = 0.0114
+
+
+11 (Mysp.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -494.079453
+  3.07793  0.40000
+
+t= 3.0779  S=    59.9  N=   252.1  dN/dS=  0.0010  dN = 0.0053  dS = 5.3231
+
+
+11 (Mysp.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -485.076518
+  3.72593  0.73414
+
+t= 3.7259  S=    66.4  N=   245.6  dN/dS=  0.0010  dN = 0.0058  dS = 5.8136
+
+
+11 (Mysp.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -488.061228
+  4.25731  1.57890
+
+t= 4.2573  S=    79.2  N=   232.8  dN/dS=  0.0010  dN = 0.0056  dS = 5.5736
+
+
+11 (Mysp.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -481.223751
+  2.45128  1.07490
+
+t= 2.4513  S=    69.5  N=   242.5  dN/dS=  0.0010  dN = 0.0037  dS = 3.6576
+
+
+11 (Mysp.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -481.223751
+  2.45128  1.07490
+
+t= 2.4513  S=    69.5  N=   242.5  dN/dS=  0.0010  dN = 0.0037  dS = 3.6576
+
+
+11 (Mysp.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -480.463430
+  2.92910  0.93477
+
+t= 2.9291  S=    66.4  N=   245.6  dN/dS=  0.0010  dN = 0.0046  dS = 4.5742
+
+
+11 (Mysp.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -480.463430
+  2.92910  0.93477
+
+t= 2.9291  S=    66.4  N=   245.6  dN/dS=  0.0010  dN = 0.0046  dS = 4.5742
+
+
+11 (Mysp.PHUM226110) ... 8 (Pnbad.PHUM226110)
+lnL = -484.621294
+  2.84652  1.16333
+
+t= 2.8465  S=    72.8  N=   239.2  dN/dS=  0.0010  dN = 0.0041  dS = 4.0535
+
+
+11 (Mysp.PHUM226110) ... 9 (Ptgot.PHUM226110)
+lnL = -483.493962
+  3.33138  2.13193
+
+t= 3.3314  S=    82.3  N=   229.7  dN/dS=  0.0010  dN = 0.0042  dS = 4.1964
+
+
+11 (Mysp.PHUM226110) ... 10 (Ptpub.PHUM226110)
+lnL = -483.928657
+  3.34163  2.12678
+
+t= 3.3416  S=    82.6  N=   229.4  dN/dS=  0.0010  dN = 0.0042  dS = 4.1939
+
+
+12 (Chtex.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -474.975612
+  4.79267 10.28554
+
+t= 4.7927  S=   106.2  N=   205.8  dN/dS=  0.0010  dN = 0.0047  dS = 4.6827
+
+
+12 (Chtex.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -462.463498
+  4.73909 13.76237
+
+t= 4.7391  S=   100.0  N=   212.0  dN/dS=  0.0010  dN = 0.0049  dS = 4.9189
+
+
+12 (Chtex.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -464.541224
+  0.88130  0.40000
+
+t= 0.8813  S=    56.2  N=   255.8  dN/dS=  0.0010  dN = 0.0016  dS = 1.6247
+
+
+12 (Chtex.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -464.694488
+  4.13057  4.32814
+
+t= 4.1306  S=    87.6  N=   224.4  dN/dS=  0.0010  dN = 0.0049  dS = 4.8886
+
+
+12 (Chtex.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -464.694488
+  4.13057  4.32814
+
+t= 4.1306  S=    87.6  N=   224.4  dN/dS=  0.0010  dN = 0.0049  dS = 4.8886
+
+
+12 (Chtex.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -462.928368
+  4.44760  8.03555
+
+t= 4.4476  S=    92.2  N=   219.8  dN/dS=  0.0010  dN = 0.0050  dS = 5.0051
+
+
+12 (Chtex.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -462.928368
+  4.44760  8.03555
+
+t= 4.4476  S=    92.2  N=   219.8  dN/dS=  0.0010  dN = 0.0050  dS = 5.0051
+
+
+12 (Chtex.PHUM226110) ... 8 (Pnbad.PHUM226110)
+lnL = -458.504168
+  1.42875  4.25157
+
+t= 1.4288  S=    90.5  N=   221.5  dN/dS=  0.0010  dN = 0.0016  dS = 1.6376
+
+
+12 (Chtex.PHUM226110) ... 9 (Ptgot.PHUM226110)
+lnL = -467.179958
+  2.06015  3.11695
+
+t= 2.0601  S=    85.1  N=   226.9  dN/dS=  0.0010  dN = 0.0025  dS = 2.5106
+
+
+12 (Chtex.PHUM226110) ... 10 (Ptpub.PHUM226110)
+lnL = -467.914389
+  1.82846  2.56786
+
+t= 1.8285  S=    82.8  N=   229.2  dN/dS=  0.0010  dN = 0.0023  dS = 2.2898
+
+
+12 (Chtex.PHUM226110) ... 11 (Mysp.PHUM226110)
+lnL = -485.489489
+  4.32432  2.72636
+
+t= 4.3243  S=    90.5  N=   221.5  dN/dS=  0.0010  dN = 0.0050  dS = 4.9595
+
+
+13 (Geaur.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -465.761876
+  0.73251  1.45592
+
+t= 0.7325  S=    71.9  N=   240.1  dN/dS=  0.0010  dN = 0.0011  dS = 1.0563
+
+
+13 (Geaur.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -452.697205
+  2.74167 13.11707
+
+t= 2.7417  S=    88.7  N=   223.3  dN/dS=  0.0010  dN = 0.0032  dS = 3.2078
+
+
+13 (Geaur.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -468.341934
+  1.92026  6.01974
+
+t= 1.9203  S=    91.8  N=   220.2  dN/dS=  0.0010  dN = 0.0022  dS = 2.1691
+
+
+13 (Geaur.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -458.911814
+  2.93800  7.59154
+
+t= 2.9380  S=    82.5  N=   229.5  dN/dS=  0.0010  dN = 0.0037  dS = 3.6921
+
+
+13 (Geaur.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -458.911814
+  2.93800  7.59154
+
+t= 2.9380  S=    82.5  N=   229.5  dN/dS=  0.0010  dN = 0.0037  dS = 3.6921
+
+
+13 (Geaur.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -450.087254
+  2.44520 10.12300
+
+t= 2.4452  S=    81.7  N=   230.3  dN/dS=  0.0010  dN = 0.0031  dS = 3.1020
+
+
+13 (Geaur.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -450.087254
+  2.44520 10.12300
+
+t= 2.4452  S=    81.7  N=   230.3  dN/dS=  0.0010  dN = 0.0031  dS = 3.1020
+
+
+13 (Geaur.PHUM226110) ... 8 (Pnbad.PHUM226110)
+lnL = -450.308168
+  3.53215 27.99158
+
+t= 3.5322  S=    93.2  N=   218.8  dN/dS=  0.0010  dN = 0.0039  dS = 3.9324
+
+
+13 (Geaur.PHUM226110) ... 9 (Ptgot.PHUM226110)
+lnL = -457.298196
+  2.68552 13.69146
+
+t= 2.6855  S=    90.8  N=   221.2  dN/dS=  0.0010  dN = 0.0031  dS = 3.0699
+
+
+13 (Geaur.PHUM226110) ... 10 (Ptpub.PHUM226110)
+lnL = -458.041025
+  2.73839 13.80369
+
+t= 2.7384  S=    92.2  N=   219.8  dN/dS=  0.0010  dN = 0.0031  dS = 3.0831
+
+
+13 (Geaur.PHUM226110) ... 11 (Mysp.PHUM226110)
+lnL = -484.616334
+  3.78898  3.28910
+
+t= 3.7890  S=    90.6  N=   221.4  dN/dS=  0.0010  dN = 0.0043  dS = 4.3392
+
+
+13 (Geaur.PHUM226110) ... 12 (Chtex.PHUM226110)
+lnL = -459.146247
+  3.99354 19.74312
+
+t= 3.9935  S=   107.5  N=   204.5  dN/dS=  0.0010  dN = 0.0039  dS = 3.8553
+
+
+14 (Hldiv.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -461.645780
+  0.54544  0.51899
+
+t= 0.5454  S=    57.8  N=   254.2  dN/dS=  0.0010  dN = 0.0010  dS = 0.9768
+
+
+14 (Hldiv.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -457.749402
+  0.72483  0.64614
+
+t= 0.7248  S=    59.0  N=   253.0  dN/dS=  0.0010  dN = 0.0013  dS = 1.2733
+
+
+14 (Hldiv.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -472.262261
+  1.06239  0.75278
+
+t= 1.0624  S=    63.5  N=   248.5  dN/dS=  0.0010  dN = 0.0017  dS = 1.7345
+
+
+14 (Hldiv.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -460.285646
+  1.59374  0.62936
+
+t= 1.5937  S=    57.8  N=   254.2  dN/dS=  0.0010  dN = 0.0029  dS = 2.8558
+
+
+14 (Hldiv.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -460.285646
+  1.59374  0.62936
+
+t= 1.5937  S=    57.8  N=   254.2  dN/dS=  0.0010  dN = 0.0029  dS = 2.8558
+
+
+14 (Hldiv.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -456.096433
+  2.51635  4.03045
+
+t= 2.5163  S=    79.3  N=   232.7  dN/dS=  0.0010  dN = 0.0033  dS = 3.2919
+
+
+14 (Hldiv.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -456.096433
+  2.51635  4.03045
+
+t= 2.5163  S=    79.3  N=   232.7  dN/dS=  0.0010  dN = 0.0033  dS = 3.2919
+
+
+14 (Hldiv.PHUM226110) ... 8 (Pnbad.PHUM226110)
+lnL = -454.127833
+  0.86795  2.37750
+
+t= 0.8680  S=    77.8  N=   234.2  dN/dS=  0.0010  dN = 0.0012  dS = 1.1573
+
+
+14 (Hldiv.PHUM226110) ... 9 (Ptgot.PHUM226110)
+lnL = -465.351315
+  3.46128  5.34016
+
+t= 3.4613  S=    88.1  N=   223.9  dN/dS=  0.0010  dN = 0.0041  dS = 4.0739
+
+
+14 (Hldiv.PHUM226110) ... 10 (Ptpub.PHUM226110)
+lnL = -466.448299
+  3.52428  5.36179
+
+t= 3.5243  S=    89.5  N=   222.5  dN/dS=  0.0010  dN = 0.0041  dS = 4.0865
+
+
+14 (Hldiv.PHUM226110) ... 11 (Mysp.PHUM226110)
+lnL = -492.320306
+  2.85470  0.40795
+
+t= 2.8547  S=    60.6  N=   251.4  dN/dS=  0.0010  dN = 0.0049  dS = 4.8754
+
+
+14 (Hldiv.PHUM226110) ... 12 (Chtex.PHUM226110)
+lnL = -459.630815
+  0.52829  2.35039
+
+t= 0.5283  S=    85.0  N=   227.0  dN/dS=  0.0010  dN = 0.0006  dS = 0.6446
+
+
+14 (Hldiv.PHUM226110) ... 13 (Geaur.PHUM226110)
+lnL = -460.102502
+  0.67970  1.30213
+
+t= 0.6797  S=    71.9  N=   240.1  dN/dS=  0.0010  dN = 0.0010  dS = 0.9802
+
+
+15 (Ibbis.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -463.400781
+  0.48699  0.70232
+
+t= 0.4870  S=    63.3  N=   248.7  dN/dS=  0.0010  dN = 0.0008  dS = 0.7975
+
+
+15 (Ibbis.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -471.689798
+  5.90862  1.35529
+
+t= 5.9086  S=    69.4  N=   242.6  dN/dS=  0.0010  dN = 0.0088  dS = 8.8264
+
+
+15 (Ibbis.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -465.588354
+  0.62317  0.55899
+
+t= 0.6232  S=    59.6  N=   252.4  dN/dS=  0.0010  dN = 0.0011  dS = 1.0824
+
+
+15 (Ibbis.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -470.932157
+  7.16066  0.96933
+
+t= 7.1607  S=    64.0  N=   248.0  dN/dS=  0.0010  dN = 0.0116  dS =11.5830
+
+
+15 (Ibbis.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -470.932157
+  7.16069  0.96933
+
+t= 7.1607  S=    64.0  N=   248.0  dN/dS=  0.0010  dN = 0.0116  dS =11.5830
+
+
+15 (Ibbis.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -468.962718
+  5.47582  1.70401
+
+t= 5.4758  S=    70.8  N=   241.2  dN/dS=  0.0010  dN = 0.0080  dS = 8.0193
+
+
+15 (Ibbis.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -468.962718
+  5.47583  1.70402
+
+t= 5.4758  S=    70.8  N=   241.2  dN/dS=  0.0010  dN = 0.0080  dS = 8.0193
+
+
+15 (Ibbis.PHUM226110) ... 8 (Pnbad.PHUM226110)
+lnL = -458.218922
+  0.89087  2.56378
+
+t= 0.8909  S=    80.7  N=   231.3  dN/dS=  0.0010  dN = 0.0011  dS = 1.1452
+
+
+15 (Ibbis.PHUM226110) ... 9 (Ptgot.PHUM226110)
+lnL = -464.983195
+  1.01491  0.40000
+
+t= 1.0149  S=    55.8  N=   256.2  dN/dS=  0.0010  dN = 0.0019  dS = 1.8833
+
+
+15 (Ibbis.PHUM226110) ... 10 (Ptpub.PHUM226110)
+lnL = -466.376015
+  1.07715  0.40000
+
+t= 1.0772  S=    56.0  N=   256.0  dN/dS=  0.0010  dN = 0.0020  dS = 1.9923
+
+
+15 (Ibbis.PHUM226110) ... 11 (Mysp.PHUM226110)
+lnL = -486.645103
+  5.10131  1.68871
+
+t= 5.1013  S=    81.5  N=   230.5  dN/dS=  0.0010  dN = 0.0065  dS = 6.4916
+
+
+15 (Ibbis.PHUM226110) ... 12 (Chtex.PHUM226110)
+lnL = -450.945671
+  0.45852  2.26577
+
+t= 0.4585  S=    84.7  N=   227.3  dN/dS=  0.0010  dN = 0.0006  dS = 0.5618
+
+
+15 (Ibbis.PHUM226110) ... 13 (Geaur.PHUM226110)
+lnL = -459.387976
+  0.90479  3.12022
+
+t= 0.9048  S=    86.4  N=   225.6  dN/dS=  0.0010  dN = 0.0011  dS = 1.0868
+
+
+15 (Ibbis.PHUM226110) ... 14 (Hldiv.PHUM226110)
+lnL = -438.499152
+  0.22988  0.78513
+
+t= 0.2299  S=    63.8  N=   248.2  dN/dS=  0.0010  dN = 0.0004  dS = 0.3734
+
+
+16 (Hldiv.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -461.645780
+  0.54544  0.51899
+
+t= 0.5454  S=    57.8  N=   254.2  dN/dS=  0.0010  dN = 0.0010  dS = 0.9768
+
+
+16 (Hldiv.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -457.749402
+  0.72483  0.64614
+
+t= 0.7248  S=    59.0  N=   253.0  dN/dS=  0.0010  dN = 0.0013  dS = 1.2733
+
+
+16 (Hldiv.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -472.262261
+  1.06239  0.75278
+
+t= 1.0624  S=    63.5  N=   248.5  dN/dS=  0.0010  dN = 0.0017  dS = 1.7345
+
+
+16 (Hldiv.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -460.285646
+  1.59374  0.62936
+
+t= 1.5937  S=    57.8  N=   254.2  dN/dS=  0.0010  dN = 0.0029  dS = 2.8558
+
+
+16 (Hldiv.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -460.285646
+  1.59374  0.62936
+
+t= 1.5937  S=    57.8  N=   254.2  dN/dS=  0.0010  dN = 0.0029  dS = 2.8558
+
+
+16 (Hldiv.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -456.096433
+  2.51635  4.03045
+
+t= 2.5163  S=    79.3  N=   232.7  dN/dS=  0.0010  dN = 0.0033  dS = 3.2919
+
+
+16 (Hldiv.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -456.096433
+  2.51635  4.03045
+
+t= 2.5163  S=    79.3  N=   232.7  dN/dS=  0.0010  dN = 0.0033  dS = 3.2919
+
+
+16 (Hldiv.PHUM226110) ... 8 (Pnbad.PHUM226110)
+lnL = -454.127833
+  0.86795  2.37750
+
+t= 0.8680  S=    77.8  N=   234.2  dN/dS=  0.0010  dN = 0.0012  dS = 1.1573
+
+
+16 (Hldiv.PHUM226110) ... 9 (Ptgot.PHUM226110)
+lnL = -465.351315
+  3.46128  5.34016
+
+t= 3.4613  S=    88.1  N=   223.9  dN/dS=  0.0010  dN = 0.0041  dS = 4.0739
+
+
+16 (Hldiv.PHUM226110) ... 10 (Ptpub.PHUM226110)
+lnL = -466.448299
+  3.52428  5.36179
+
+t= 3.5243  S=    89.5  N=   222.5  dN/dS=  0.0010  dN = 0.0041  dS = 4.0865
+
+
+16 (Hldiv.PHUM226110) ... 11 (Mysp.PHUM226110)
+lnL = -492.320306
+  2.85470  0.40795
+
+t= 2.8547  S=    60.6  N=   251.4  dN/dS=  0.0010  dN = 0.0049  dS = 4.8754
+
+
+16 (Hldiv.PHUM226110) ... 12 (Chtex.PHUM226110)
+lnL = -459.630815
+  0.52829  2.35039
+
+t= 0.5283  S=    85.0  N=   227.0  dN/dS=  0.0010  dN = 0.0006  dS = 0.6446
+
+
+16 (Hldiv.PHUM226110) ... 13 (Geaur.PHUM226110)
+lnL = -460.102502
+  0.67970  1.30213
+
+t= 0.6797  S=    71.9  N=   240.1  dN/dS=  0.0010  dN = 0.0010  dS = 0.9802
+
+
+16 (Hldiv.PHUM226110) ... 14 (Hldiv.PHUM226110)
+lnL = -374.866437
+  0.00001  1.58472
+
+t= 0.0000  S=    73.9  N=   238.1  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+16 (Hldiv.PHUM226110) ... 15 (Ibbis.PHUM226110)
+lnL = -438.499152
+  0.22988  0.78513
+
+t= 0.2299  S=    63.8  N=   248.2  dN/dS=  0.0010  dN = 0.0004  dS = 0.3734
+
+
+17 (Ibbis.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -463.400781
+  0.48699  0.70232
+
+t= 0.4870  S=    63.3  N=   248.7  dN/dS=  0.0010  dN = 0.0008  dS = 0.7975
+
+
+17 (Ibbis.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -471.689798
+  5.90863  1.35530
+
+t= 5.9086  S=    69.4  N=   242.6  dN/dS=  0.0010  dN = 0.0088  dS = 8.8264
+
+
+17 (Ibbis.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -465.588354
+  0.62317  0.55899
+
+t= 0.6232  S=    59.6  N=   252.4  dN/dS=  0.0010  dN = 0.0011  dS = 1.0824
+
+
+17 (Ibbis.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -470.932157
+  7.16066  0.96933
+
+t= 7.1607  S=    64.0  N=   248.0  dN/dS=  0.0010  dN = 0.0116  dS =11.5830
+
+
+17 (Ibbis.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -470.932157
+  7.16067  0.96933
+
+t= 7.1607  S=    64.0  N=   248.0  dN/dS=  0.0010  dN = 0.0116  dS =11.5830
+
+
+17 (Ibbis.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -468.962718
+  5.47582  1.70401
+
+t= 5.4758  S=    70.8  N=   241.2  dN/dS=  0.0010  dN = 0.0080  dS = 8.0193
+
+
+17 (Ibbis.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -468.962718
+  5.47583  1.70402
+
+t= 5.4758  S=    70.8  N=   241.2  dN/dS=  0.0010  dN = 0.0080  dS = 8.0193
+
+
+17 (Ibbis.PHUM226110) ... 8 (Pnbad.PHUM226110)
+lnL = -458.218922
+  0.89087  2.56378
+
+t= 0.8909  S=    80.7  N=   231.3  dN/dS=  0.0010  dN = 0.0011  dS = 1.1452
+
+
+17 (Ibbis.PHUM226110) ... 9 (Ptgot.PHUM226110)
+lnL = -464.983195
+  1.01491  0.40000
+
+t= 1.0149  S=    55.8  N=   256.2  dN/dS=  0.0010  dN = 0.0019  dS = 1.8833
+
+
+17 (Ibbis.PHUM226110) ... 10 (Ptpub.PHUM226110)
+lnL = -466.376015
+  1.07715  0.40000
+
+t= 1.0772  S=    56.0  N=   256.0  dN/dS=  0.0010  dN = 0.0020  dS = 1.9923
+
+
+17 (Ibbis.PHUM226110) ... 11 (Mysp.PHUM226110)
+lnL = -486.645103
+  5.10131  1.68871
+
+t= 5.1013  S=    81.5  N=   230.5  dN/dS=  0.0010  dN = 0.0065  dS = 6.4916
+
+
+17 (Ibbis.PHUM226110) ... 12 (Chtex.PHUM226110)
+lnL = -450.945671
+  0.45852  2.26577
+
+t= 0.4585  S=    84.7  N=   227.3  dN/dS=  0.0010  dN = 0.0006  dS = 0.5618
+
+
+17 (Ibbis.PHUM226110) ... 13 (Geaur.PHUM226110)
+lnL = -459.387976
+  0.90479  3.12022
+
+t= 0.9048  S=    86.4  N=   225.6  dN/dS=  0.0010  dN = 0.0011  dS = 1.0868
+
+
+17 (Ibbis.PHUM226110) ... 14 (Hldiv.PHUM226110)
+lnL = -438.499152
+  0.22988  0.78513
+
+t= 0.2299  S=    63.8  N=   248.2  dN/dS=  0.0010  dN = 0.0004  dS = 0.3734
+
+
+17 (Ibbis.PHUM226110) ... 15 (Ibbis.PHUM226110)
+lnL = -375.487911
+  0.00001  1.34160
+
+t= 0.0000  S=    71.3  N=   240.7  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+17 (Ibbis.PHUM226110) ... 16 (Hldiv.PHUM226110)
+lnL = -438.499152
+  0.22988  0.78513
+
+t= 0.2299  S=    63.8  N=   248.2  dN/dS=  0.0010  dN = 0.0004  dS = 0.3734
+
+
+18 (Gdort.PHUM226110) ... 1 (Hbarb.PHUM226110)
+lnL = -462.886915
+  0.70073  0.84011
+
+t= 0.7007  S=    64.3  N=   247.7  dN/dS=  0.0010  dN = 0.0011  dS = 1.1287
+
+
+18 (Gdort.PHUM226110) ... 2 (Ltspi.PHUM226110)
+lnL = -465.023124
+  6.42823  0.88424
+
+t= 6.4282  S=    62.5  N=   249.5  dN/dS=  0.0010  dN = 0.0107  dS =10.6524
+
+
+18 (Gdort.PHUM226110) ... 3 (Nepac.PHUM226110)
+lnL = -473.781329
+  0.83669  0.40000
+
+t= 0.8367  S=    53.8  N=   258.2  dN/dS=  0.0010  dN = 0.0016  dS = 1.6084
+
+
+18 (Gdort.PHUM226110) ... 4 (PdhumCA.PHUM226110)
+lnL = -475.527219
+ 11.85302  1.63004
+
+t= 11.8530  S=    69.7  N=   242.3  dN/dS=  0.0010  dN = 0.0176  dS =17.6216
+
+
+18 (Gdort.PHUM226110) ... 5 (PdhumNE.PHUM226110)
+lnL = -475.527219
+ 11.85302  1.63004
+
+t= 11.8530  S=    69.7  N=   242.3  dN/dS=  0.0010  dN = 0.0176  dS =17.6216
+
+
+18 (Gdort.PHUM226110) ... 6 (PdschKE.PHUM226110)
+lnL = -462.727805
+  5.85909  1.07083
+
+t= 5.8591  S=    63.5  N=   248.5  dN/dS=  0.0010  dN = 0.0096  dS = 9.5520
+
+
+18 (Gdort.PHUM226110) ... 7 (PdschUG.PHUM226110)
+lnL = -462.727805
+  5.85908  1.07083
+
+t= 5.8591  S=    63.5  N=   248.5  dN/dS=  0.0010  dN = 0.0096  dS = 9.5520
+
+
+18 (Gdort.PHUM226110) ... 8 (Pnbad.PHUM226110)
+lnL = -463.862276
+  5.92025 16.03578
+
+t= 5.9202  S=    97.7  N=   214.3  dN/dS=  0.0010  dN = 0.0063  dS = 6.2881
+
+
+18 (Gdort.PHUM226110) ... 9 (Ptgot.PHUM226110)
+lnL = -473.548682
+  6.93611 14.05575
+
+t= 6.9361  S=    96.9  N=   215.1  dN/dS=  0.0010  dN = 0.0074  dS = 7.4240
+
+
+18 (Gdort.PHUM226110) ... 10 (Ptpub.PHUM226110)
+lnL = -475.074667
+  7.11005 14.11151
+
+t= 7.1101  S=    98.7  N=   213.3  dN/dS=  0.0010  dN = 0.0075  dS = 7.4776
+
+
+18 (Gdort.PHUM226110) ... 11 (Mysp.PHUM226110)
+lnL = -485.564789
+  5.10618  2.28221
+
+t= 5.1062  S=    86.5  N=   225.5  dN/dS=  0.0010  dN = 0.0061  dS = 6.1238
+
+
+18 (Gdort.PHUM226110) ... 12 (Chtex.PHUM226110)
+lnL = -440.227618
+  0.40495  6.27880
+
+t= 0.4050  S=   101.4  N=   210.6  dN/dS=  0.0010  dN = 0.0004  dS = 0.4146
+
+
+18 (Gdort.PHUM226110) ... 13 (Geaur.PHUM226110)
+lnL = -463.022279
+  4.20806 12.99654
+
+t= 4.2081  S=   104.8  N=   207.2  dN/dS=  0.0010  dN = 0.0042  dS = 4.1670
+
+
+18 (Gdort.PHUM226110) ... 14 (Hldiv.PHUM226110)
+lnL = -443.807831
+  0.39796  0.43861
+
+t= 0.3980  S=    53.2  N=   258.8  dN/dS=  0.0010  dN = 0.0008  dS = 0.7742
+
+
+18 (Gdort.PHUM226110) ... 15 (Ibbis.PHUM226110)
+lnL = -436.417738
+  0.31850  1.10924
+
+t= 0.3185  S=    67.9  N=   244.1  dN/dS=  0.0010  dN = 0.0005  dS = 0.4864
+
+
+18 (Gdort.PHUM226110) ... 16 (Hldiv.PHUM226110)
+lnL = -443.807831
+  0.39796  0.43861
+
+t= 0.3980  S=    53.2  N=   258.8  dN/dS=  0.0010  dN = 0.0008  dS = 0.7742
+
+
+18 (Gdort.PHUM226110) ... 17 (Ibbis.PHUM226110)
+lnL = -436.417738
+  0.31850  1.10924
+
+t= 0.3185  S=    67.9  N=   244.1  dN/dS=  0.0010  dN = 0.0005  dS = 0.4864

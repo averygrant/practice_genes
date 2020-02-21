@@ -1,0 +1,19 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	zazu
+	1
+
+[Fri Feb 21 12:32:43 2020]
+rule zazu:
+    input: /scratch/practice_genes/practice_genes/PHUM222190, /scratch/practice_genes/practice_genes/PHUM225030, /scratch/practice_genes/practice_genes/PHUM225970, /scratch/practice_genes/practice_genes/PHUM226110
+    output: PHUM222190/codeml_results.txt, PHUM225030/codeml_results.txt, PHUM225970/codeml_results.txt, PHUM226110/codeml_results.txt, allres.txt
+    jobid: 0
+
+[Fri Feb 21 12:32:50 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /scratch/practice_genes/practice_genes/.snakemake/log/2020-02-21T123243.490036.snakemake.log

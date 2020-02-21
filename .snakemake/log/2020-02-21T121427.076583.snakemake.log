@@ -1,0 +1,17 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	zazu
+	1
+
+[Fri Feb 21 12:14:27 2020]
+rule zazu:
+    input: PHUM222190/PHUM222190.fasta, PHUM225030/PHUM225030.fasta, PHUM225970/PHUM225970.fasta, PHUM226110/PHUM226110.fasta, PHUM222190/codeml.ctl, PHUM225030/codeml.ctl, PHUM225970/codeml.ctl, PHUM226110/codeml.ctl
+    output: PHUM222190/codeml_results.txt, PHUM225030/codeml_results.txt, PHUM225970/codeml_results.txt, PHUM226110/codeml_results.txt
+    jobid: 0
+
+RuleException in line 5 of /scratch/practice_genes/practice_genes/Snakefile3:
+NameError: The name 'sample' is unknown in this context. Please make sure that you defined that variable. Also note that braces not used for variable access have to be escaped by repeating them, i.e. {{print $1}}

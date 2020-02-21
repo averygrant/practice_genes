@@ -1,0 +1,7 @@
+Building DAG of jobs...
+MissingInputException in line 6 of /scratch/practice_genes/practice_genes/Snakefile:
+Missing input files for rule zazu:
+practice_genes/PHUM222190/PHUM222190.fasta
+practice_genes/PHUM225970/PHUM225970.fasta
+practice_genes/PHUM227210/PHUM227210.fasta
+practice_genes/PHUM227260/PHUM227260.fasta

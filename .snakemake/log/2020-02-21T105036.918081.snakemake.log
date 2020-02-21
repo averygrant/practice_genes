@@ -1,0 +1,3 @@
+WildcardError in line 9 of /scratch/practice_genes/practice_genes/Snakefile2:
+No values given for wildcard 'sample'.
+  File "/scratch/practice_genes/practice_genes/Snakefile2", line 9, in <module>

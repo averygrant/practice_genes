@@ -1,0 +1,29 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	zazu
+	1
+
+[Fri Feb 21 12:16:55 2020]
+rule zazu:
+    input: PHUM222190/PHUM222190.fasta, PHUM225030/PHUM225030.fasta, PHUM225970/PHUM225970.fasta, PHUM226110/PHUM226110.fasta, PHUM222190/codeml.ctl, PHUM225030/codeml.ctl, PHUM225970/codeml.ctl, PHUM226110/codeml.ctl
+    output: PHUM222190/codeml_results.txt, PHUM225030/codeml_results.txt, PHUM225970/codeml_results.txt, PHUM226110/codeml_results.txt
+    jobid: 0
+
+[Fri Feb 21 12:16:55 2020]
+Error in rule zazu:
+    jobid: 0
+    output: PHUM222190/codeml_results.txt, PHUM225030/codeml_results.txt, PHUM225970/codeml_results.txt, PHUM226110/codeml_results.txt
+    shell:
+        
+              cd {sample}
+              codeml >> allres.txt
+              
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /scratch/practice_genes/practice_genes/.snakemake/log/2020-02-21T121655.666580.snakemake.log
